@@ -1,0 +1,33 @@
+{
+  "name": "willcpo-homework02",
+  "version": "1.0.0",
+  "main": "src/readWeatherUrl.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0480-008-spring-2019/willcpo-homework02.git"
+  },
+  "author": "Will Powers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-008-spring-2019/willcpo-homework02/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-008-spring-2019/willcpo-homework02#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.13.0",
+    "eslint-plugin-mocha": "^5.2.1",
+    "mocha": "^5.2.0",
+    "mocha-sinon": "^2.1.0",
+    "sinon": "^7.2.3"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
